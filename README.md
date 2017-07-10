@@ -1,1 +1,1 @@
-# ppm
+An interactive map of PPM study sites in India between 1995 and 2007. The map shows India by district. Data of administrative boundaries are from GADM database of Global Administrative Areas (http://www.gadm.org/). 
